@@ -4,9 +4,8 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Prueba {
     public static void main(String[]args){
-        console.log("prueba");
+        System.out.println("Bienvenido al sistema");
     }
-
 
 
 }
